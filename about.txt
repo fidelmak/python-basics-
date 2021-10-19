@@ -1,0 +1,17 @@
+    This is a beginner course in programming
+    1. introduction to python programming language 
+    2. Revision on HTML and CSS
+    3, introduction to Bootstrap 
+    4. landing page in Bootstrap
+    5. sign-up page in Bootstrap
+    6. introduction to flask framework
+    7. landing page in flask 
+    8. introduction to database (sql)
+    9. sign-up page and login page in flask
+    10. simple blog website in flask
+    11. introduction to Git 
+    12. deploying your flask website on netlify and github-pages
+    13. intoduction to Api with flask
+    14. weather forcast website with flask
+    15. Carear in web development using flask(python) and Freelancing
+    // 31:39
