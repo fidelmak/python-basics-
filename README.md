@@ -75,5 +75,5 @@ Python is a versatile and powerful programming language that has gained widespre
    
     
       ## Start your course here
-     1.  [Variable Session ](/guides/content/editing-an-existing-page)
+     1.  [Variable Session ](variable/variable.md)
 
