@@ -72,4 +72,8 @@ Python is a versatile and powerful programming language that has gained widespre
 
 10. **Conclusion**
     - Python's Impact and Future Trends
+   
+    
+      ## Start your course here
+     1.  [Variable Session ](/guides/content/editing-an-existing-page)
 
