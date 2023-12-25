@@ -75,22 +75,107 @@ Python is a versatile and powerful programming language that has gained widespre
 
      # Start your course here
 
-     ## 1.  [Variable Session ](variable/variable.md)
-     ## 2.  [String  Session ](string/string.md)
-     ## 3.  [List Session ](py_list/list.py)
-  ## 4.  [Tuple Session ](tuple/tuple.md)
-   ## 5.  [Dictionary Session ](dictionary/dictionary.md)
-   ## 6.  [Loop Session ](loop/loop.md)
-   ##  7.  [If/Else statement Session ](if/if.py)
-   ##  8.  [Function Session ](function/function.md)
- ## 9.  [Files Session ](files/files.md)
-   ## 10.  [Class Session ](class/class.md)
-   ## 11.  [Module Session ](module/module.md)
-   ## 12.  [Async Session ](async/async.md)
-   ## 13.  [Json/Api Session ](Json_Api/json.md)
-   -- 14.  [Tkinter Session ](Tkinter/Tkinter_basics.md) 
+
+# Installing Python and Getting Started
+
+## Mac OS
+
+### Step 1: Check if Python is Installed
+Open Terminal and type:
+```bash
+python3 --version
+```
+If Python is not installed, go to Step 2.
+
+### Step 2: Install Homebrew (Package Manager)
+Open Terminal and run:
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+### Step 3: Install Python
+Run:
+```bash
+brew install python
+```
+
+## Windows
+
+### Step 1: Download Python Installer
+Go to [Python Downloads](https://www.python.org/downloads/) and download the latest version.
+
+### Step 2: Run Installer
+Run the downloaded installer. Check the box that says "Add Python to PATH" during installation.
+
+### Step 3: Verify Installation
+Open Command Prompt and type:
+```bash
+python --version
+```
+
+## Linux
+
+### Step 1: Check Python Version
+Open Terminal and type:
+```bash
+python --version
+```
+If Python is not installed, go to Step 2.
+
+### Step 2: Install Python
+For Debian/Ubuntu-based systems, run:
+```bash
+sudo apt update
+sudo apt install python3
+```
+
+For Red Hat/Fedora-based systems, run:
+```bash
+sudo yum install python3
+```
+
+### Step 3: Verify Installation
+Type:
+```bash
+python3 --version
+```
+
+# Getting Started
+
+## Open a Python Interpreter
+- Mac/Linux: Open Terminal and type `python3`.
+- Windows: Open Command Prompt and type `python`.
+
+## Write Your First Python Program
+Create a file, e.g., `hello.py`, with the following content:
+```python
+print("Hello, Python!")
+```
+
+Save the file and run it in the terminal:
+```bash
+python hello.py
+```
+
+Congratulations! You've installed Python and written your first program. Happy coding!
 
 
-         
-    happy coding 
+# Access the Contents Here
+
+## 1. [Variable Session](variable/variable.md)
+## 2. [String Session](string/string.md)
+## 3. [List Session](py_list/list.py)
+## 4. [Tuple Session](tuple/tuple.md)
+## 5. [Dictionary Session](dictionary/dictionary.md)
+## 6. [Loop Session](loop/loop.md)
+## 7. [If/Else Statement Session](if/if.py)
+## 8. [Function Session](function/function.md)
+## 9. [Files Session](files/files.md)
+## 10. [Class Session](class/class.md)
+## 11. [Module Session](module/module.md)
+## 12. [Async Session](async/async.md)
+## 13. [JSON/API Session](Json_Api/json.md)
+-- 14. [Tkinter Session](Tkinter/Tkinter_basics.md)
+
+Happy coding!
 
